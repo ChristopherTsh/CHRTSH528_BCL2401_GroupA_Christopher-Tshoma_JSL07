@@ -15,9 +15,9 @@ To run the application locally, follow these steps:
 
 1. **Clone the Repository**: Grab a copy of this repository by running the following command in your terminal:
 
-   ```
+   
    [git clone](https://github.com/ChristopherTsh/CHRTSH528_BCL2401_GroupA_Christopher-Tshoma_JSL07)
-   ```
+   
 
 2. **Open the Application**: Fire up your preferred web browser and open the `index.html` file.
 
